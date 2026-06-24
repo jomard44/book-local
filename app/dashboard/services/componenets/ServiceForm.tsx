@@ -1,4 +1,4 @@
-export default function CreateService() {
+export default function ServiceForm() {
   return (
     <div className="min-h-screen bg-white text-slate-900 flex items-center justify-center px-4">
       <div className="w-full max-w-lg">
